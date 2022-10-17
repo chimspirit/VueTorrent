@@ -1,5 +1,13 @@
 # Changelog
 
+### [0.19.2](https://github.com/WDaan/VueTorrent/compare/v0.19.1...v0.19.2) (2022-10-17)
+
+
+### Bug Fixes
+
+* copy to clipboard on non secure context (no SSL) [#521](https://github.com/WDaan/VueTorrent/issues/521) ([058766f](https://github.com/WDaan/VueTorrent/commit/058766f617e39f57bd56d68557b32797d70d4947))
+* replace v-html with conditional rendering in torrent details view ([#513](https://github.com/WDaan/VueTorrent/issues/513)) ([6d873e7](https://github.com/WDaan/VueTorrent/commit/6d873e76fc63544673bda673ff377c0b9b810706))
+
 ### [0.19.1](https://github.com/WDaan/VueTorrent/compare/v0.19.0...v0.19.1) (2022-10-11)
 
 
